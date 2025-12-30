@@ -36,6 +36,12 @@ Once you have your forty, sort alphabetically, and remove duplicates if any.
 
 ### Advocacy (10 Minutes):
 
+We need to find out if we have advocates at these companies, go through the list 3 times:
+1. Put a 'y' next to any company that you can immediately name a friend/family member.
+2. Has at least one Alumni at the company, see below for steps.
+3. Filter LinkedIn for just the company name, see if there is anyone that lives close or has a similar experience.
+4. Fill in all other companies with 'n'.
+
 To find out if there are alumni at a certain company easiest, follow these steps:
 1. Go to LinkedIn, press enter in the search box to bring up the custom filters.
 2. Click People.
