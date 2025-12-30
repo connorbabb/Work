@@ -59,7 +59,7 @@ Go down the list and rate your motivation from 0-3. Reserve 0s for employers we 
 
 Online job postings are pretty bad at getting you a job, but they provide great Meta information.
 1. Use Indeed.com or similar sites.
-2. Search for the posting by putting in the 'What' box the company name then a likely keyword like 'software developer'. Don't click on anything, just look at the job title, location, brief description. Remember to use "" around both the company and job title.
+2. Search for the posting by putting in the 'What' box the company name then a likely keyword like 'software developer'. Don't click on anything, just look at the job title, location, brief description. Remember to use "" around the job title/keyword, but NOT the company.
 3. If there is a relevant posting at the company it gets a 3. If not search for any postings from that company by getting rid of the keyword, if there is one, it gets a 2. If there are no postings, it gets a 1.
 
 ### Sort your List:
