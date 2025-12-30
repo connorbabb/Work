@@ -130,6 +130,11 @@ Connor Babb
 (253) 249-8657
 ```
 
+If you need to connect and just send a note:
+```
+Hey Cody! My name is Connor, I just graduated from BYU-Idaho in Computer Science a couple weeks ago. I was wondering if we could talk sometime this week about your experience at General Dynamics?
+```
+
 If you already applied and you want to let them know:
 ```
 Hi Patricia,
