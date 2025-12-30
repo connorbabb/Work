@@ -5,11 +5,6 @@
 - The LAMP list helps you to narrow down prospects and focus on the best 5 or so.
 - Don't take the time to apply to an interesting one right away, you will lose your efficiency.
 - Don't worry about a posting closing, an employer will always make an exception for an internal referral.
-- The four letters in LAMP are: 
-    1. List all employers. Do more if you still have time, never less than 40. The more the merrier! With 40 there is a better chance to catch those smaller employers.
-    2. Identify Advocates. 
-    3. Assess Motivation. 
-    4. Classify postings.
 - Focusing on talking to employers rather than job postings gets to the source, and you learn more from experts. This is way more motivating and teaches you about the market, which other employers will usually ask about.
 - Where is my passion? Passion will build the drive and knowledge, and employers hire people out of knowlwedge and passion. So find where my passion lies.
 - I think one of my best skills is organization and the efficiency that comes from that.
@@ -72,10 +67,6 @@ Online job postings are pretty bad at getting you a job, but they provide great 
 ### Naturalize (20 Minutes):
 
 Our LAMP list was all about finding our best contacts or employers. Contact is all about identifying and finding contacts for people at companies, we are looking at the top 5 companies here.
-
-1. Naturalize
-2. The 6-Point Email
-3. Track
 
 Responses to our emails are about 20-40% so getting two contacts per employer is really important. We may even go back to find a 3rd or 4th later on.
 
