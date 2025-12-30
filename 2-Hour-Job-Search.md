@@ -116,17 +116,18 @@ We need to keep our email brief, and not spammy, that means not long and no hype
 - Point #6: Keep **over half the word count about the contact**, not about you.
 
 ```
-Subject: Your product management experience at Red Hat
+Subject: Questions About Your Experience at Honeywell
 
-Hi Jeff,
+Hey Noah!
 
-I’m Brooke, a fellow Duke MBA (’22). May I chat with you for a few minutes about your product management experience at Red Hat?
+My name is Connor, I have just graduated from BYU-Idaho in computer science this past couple weeks. I saw on LinkedIn that you work at Honeywell, I was wondering if you had a few minutes either this week or next week to call sometime to talk about your experience there?
 
-I am trying to learn more about product management in the North Carolina tech space, so your insights would be greatly appreciated.
+Right now, I am looking to learn more from experts, so any advice and insights are greatly appreciated!
 
-Best regards,
+Thank you,
 
-Brooke
+Connor Babb
+(253) 249-8657
 ```
 
 If you already applied and you want to let them know:
